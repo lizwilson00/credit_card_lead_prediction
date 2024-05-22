@@ -5,7 +5,7 @@ March 9, 2024
 
 ## *Analyzing, Modeling, and Predicting*
 
-<img src="assets/credit_card_image.jpg" alt="drawing" width="200"/>
+<img src="assets/credit_card_image.jpg" alt="drawing" width="400"/>
 <!-- ![credit_card_project_image](assets/credit_card_image.jpg) -->
 <a href="https://www.freepik.com/free-vector/plain-credit-card-concept-illustration_5359093.htm#fromView=search&page=1&position=22&uuid=d90e714c-176e-4590-b63d-05cae216409b">Image by storyset on Freepik</a>
 
